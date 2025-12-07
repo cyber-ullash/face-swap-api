@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/cyber-fca.svg)](https://www.npmjs.com/package/cyber-fca)
 [![npm downloads](https://img.shields.io/npm/dm/cyber-fca.svg)](https://www.npmjs.com/package/cyber-fca)
-[![GitHub](https://img.shields.io/github/license/sheikhtamimlover/cyber-fca)](https://github.com/cyber-ullash/cyber-fca.git)
+[![GitHub](https://img.shields.io/github/license/sheikhtamimlover/cyber-fca)](https://github.com/cyber-ullash/cyber-fca)
 
 > **Unofficial Facebook Chat API for Node.js** - Interact with Facebook Messenger programmatically for cyber-fca 
 > 
@@ -43,7 +43,7 @@ cyber-fca includes an **automatic update system** that keeps your package up-to-
 
 ### For Bot Projects
 
-If you're using cyber-fca in your bot project (like [https://github.com/cyber-ullash/cyber-fca.git]), the package will:
+If you're using cyber-fca in your bot project (like [cyber-fca](https://github.com/cyber-ullash/cyber-fca.git)), the package will:
 
 - ✅ Detect when a new version is available
 - ✅ Automatically update to the latest version via npm
@@ -378,7 +378,7 @@ If this project is helpful, please give it a ⭐ on GitHub!
 ## 🔗 Links
 
 - [NPM Package](https://www.npmjs.com/package/cyber-fca)
-- [GitHub Repository](https://github.com/cyber-ullash/cyber-fca.git)
+- [GitHub Repository](https://github.com/cyber-ullash/cyber-fca)
 - [Issue Tracker](https://github.com/cyber-ullash/cyber-fca/issues)
 
 ---
